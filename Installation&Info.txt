@@ -54,8 +54,6 @@ __________________________________________________________
 ------------------------Extra------------------------
 The Advanced Movement Module works best for Custom Gamemodes. Some parts will break or fail with Default Gamemodes such as Jumping and taking Falldamage during Climbing.
 
-It is recommended to use the recreated Gamemodes instead.
-
 
 
 You can Modify some Features by Changing the "Configuration" Variables such as Enabling/Disabling Jumping and Setting some BunnyHopping Parameters. For Existing Custom Gamemodes, they will appear at the right side within the PlayerProxy of your Custom Gamemode.

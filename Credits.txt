@@ -1,11 +1,7 @@
 Advanced Movement Module by Yoshey for Pavlov VR
 Version 1.0 - 2020
 
--
-
 All logic, art assets and models are ultimately owned by Yoshey.
 Exception: SW_Wind_RushingLoop1
 
-Special thanks to all my Patreons on https://www.patreon.com/Yoshey for supporting me to create these things!
-
-Enjoy!
+Special thanks to all my Patreons on https://www.patreon.com/Yoshey for supporting me to create these modules!
