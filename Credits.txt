@@ -1,4 +1,4 @@
-Advanced Movement Module by Yoshey for Pavlov VR
+Advanced Movement Module (AMM) by Yoshey for Pavlov VR
 Version 1.0 - 2020
 
 All logic, art assets and models are ultimately owned by Yoshey.
