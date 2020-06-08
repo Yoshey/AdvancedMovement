@@ -1,5 +1,13 @@
 <h1>Advanced Movement Module (AMM) by Yoshey for Pavlov VR</h1>
 <h3>Version 1.0 - 2020</h3>
+<ul><h3>Features</h3>
+  <li>Physical Climbing</li>
+  <li>Jumping</li>
+  <ul>
+    <li>Bunny Hopping</li>
+    <li>Changeable Jump Button</li>
+  </ul>
+</ul>
 <br>
 All logic, art assets and models are ultimately owned by Yoshey.
 Exception: SW_Wind_RushingLoop1
