@@ -22,7 +22,7 @@ __________________________________________________________
 ------02. Adding AMM to an existing Default Project-------
 
 1. Extract the zip file and open the Content Folder
-2. Copy "AdvancedMovement" and Paste it into your Project's Content Folder
+2. Copy everything within the Content Folder and Paste it into your Project's Content Folder
 3. Open your Project in Unreal Engine
 5. Select the "AdvancedMovement" folder and Drag&Drop it into your UGCXXX Folder
 5.1 (Optional) Do the same with the "AdvancedMovementExamples" to include the examples
@@ -52,8 +52,10 @@ MAKE SURE TO MAKE A BACKUP BEFORE DOING THIS!
 
 __________________________________________________________
 ------------------------Extra------------------------
-The Advanced Movement Module works best for custom gamemodes. Some parts will break or fail with default gamemodes such as jumping and taking falldamage during climbing.
+The Advanced Movement Module works best for Custom Gamemodes. Some parts will break or fail with Default Gamemodes such as Jumping and taking Falldamage during Climbing.
+
+It is recommended to use the recreated Gamemodes instead.
 
 
 
-You can modify some features by changing the "Configuration" variables such as enabling/disabling jumping and setting some BunnyHopping parameters. For existing custom gamemodes, they will appear at the right side within the PlayerProxy of your custom gamemode.
+You can Modify some Features by Changing the "Configuration" Variables such as Enabling/Disabling Jumping and Setting some BunnyHopping Parameters. For Existing Custom Gamemodes, they will appear at the right side within the PlayerProxy of your Custom Gamemode.
