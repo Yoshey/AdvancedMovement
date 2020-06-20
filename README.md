@@ -1,5 +1,5 @@
 <h1>Advanced Movement Module (AMM) by Yoshey for Pavlov VR</h1>
-<h3>Version 1.0 - 2020</h3>
+<h3>Version 1.1 - 2020</h3>
 <ul><h3>Features</h3>
   <li>Physical Climbing</li>
   <li>Velocity based Falldamage (By Mottflyer)</li>
