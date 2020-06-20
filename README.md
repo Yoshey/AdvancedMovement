@@ -2,6 +2,8 @@
 <h3>Version 1.0 - 2020</h3>
 <ul><h3>Features</h3>
   <li>Physical Climbing</li>
+  <li>Velocity based Falldamage (By Mottflyer)</li>
+  <li>Parachuting (By Mark Dey)</li>
   <li>Jumping</li>
   <ul>
     <li>Bunny Hopping</li>
