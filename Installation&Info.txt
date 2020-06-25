@@ -58,4 +58,7 @@ It is recommended to use the recreated Gamemodes instead.
 
 
 
-You can Modify some Features by Changing the "Configuration" Variables such as Enabling/Disabling Jumping and Setting some BunnyHopping Parameters. For Existing Custom Gamemodes, they will appear at the right side within the PlayerProxy of your Custom Gamemode.
+You can Modify some Features by Changing the "Advanced Movement" Variables such as Enabling/Disabling Jumping and Changing some BunnyHopping Parameters. 
+For Vanilla Gamemodes, you will have to edit them in the Advanced Movement Proxies like the PlayerProxy and Global Info. They will appear on the left inside the "Advanced Movement" Variable Category. Note: For Vanilla, the Settings will be overwritten when you Update! You can create a Child Blueprints and use those as your Advanced Movement Proxy to prevent overriding your Settings.
+
+For Existing Custom Gamemodes, the "Advanced Movement" Category will appear at the right side within the Global Info / Player Proxy of your Custom Gamemode.

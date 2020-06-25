@@ -1,16 +1,41 @@
 Advanced Movement Module by Yoshey for Pavlov VR
-Version 1.1b - 2020
+Version 1.2 - 2020
 
 -
 
-All logic, art assets and models are ultimately owned by Yoshey.
+All logic, art assets and models are ultimately owned by Yoshey except mentioned below.
 
-Exception:
-Pavlov's Sound Files
+Excemption:
+Pavlov's Sound Files (Fallingsounds, Damagesounds)
 Parachuting (Made by Mark Dey)
 Velocity based Falldamage (Made by Mottflyer)
-
+Vanilla Falldamage Prevention (Thanks to Kennithh)
 
 Special thanks to all my Patreons on https://www.patreon.com/Yoshey for supporting me to create these things!
 
 Enjoy!
+
+
+
+
+
+
+Version History:
+1.2
+- Made Climbing compatible for Vanilla Gamemodes (Prevent Falldamage)
+- Made Jumping compatible for Vanilla Gamemodes
+- Jump Settings button hides automatically if jumping is disabled
+- Added a few more options like "Enable Vanilla Falldamage"
+1.1b
+Hotfix for:
+- Jump Settings Loader
+- missing mesh reference
+- BHop Max speed Calculator
+1.1
+- Added Mottflyer's Velocity based Falldamage
+- Added Mark Dey's Parachute Falling
+- Fixed some Left/Right mixup for the Keybinds
+- Fixed Settings Menu not detecting if it's a Community Server properly
+- Fixed Bunnyhopping causing you to jump less higher
+1.0
+First Release
