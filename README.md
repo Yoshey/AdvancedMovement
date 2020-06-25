@@ -34,3 +34,26 @@ You can modify some features by changing the "Configuration" variables such as e
 <br>
 <h5>The Advanced Movement Module is Licensed under the
 Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</h5>
+<br>
+<br>
+<br>
+<br>
+<h3>Version History:</h3>
+<b>1.2</b>
+- Made Climbing compatible for Vanilla Gamemodes (Prevent Falldamage)
+- Made Jumping compatible for Vanilla Gamemodes
+- Jump Settings button hides automatically if jumping is disabled
+- Added a few more options like "Enable Vanilla Falldamage"
+<b>1.1b</b>
+Hotfix for:
+- Jump Settings Loader
+- missing mesh reference
+- BHop Max speed Calculator
+<b>1.1</b>
+- Added Mottflyer's Velocity based Falldamage
+- Added Mark Dey's Parachute Falling
+- Fixed some Left/Right mixup for the Keybinds
+- Fixed Settings Menu not detecting if it's a Community Server properly
+- Fixed Bunnyhopping causing you to jump less higher
+<b>1.0</b>
+First Release
