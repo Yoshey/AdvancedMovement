@@ -1,5 +1,5 @@
 <h1>Advanced Movement Module (AMM) by Yoshey for Pavlov VR</h1>
-<h3>Version 1.1b - 2020</h3>
+<h3>Version 1.2 - 2020</h3>
 <ul><h3>Features</h3>
   <li>Physical Climbing</li>
   <li>Velocity based Falldamage (By Mottflyer)</li>
@@ -34,3 +34,36 @@ You can modify some features by changing the "Configuration" variables such as e
 <br>
 <h5>The Advanced Movement Module is Licensed under the
 Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</h5>
+<br>
+<br>
+<br>
+<br>
+<h3>Version History:</h3>
+<b>1.2</b>
+<ul>
+  <li>Made Climbing compatible for Vanilla Gamemodes (Prevent Falldamage)</li>
+  <li>Made Jumping compatible for Vanilla Gamemodes</li>
+  <li>Jump Settings button hides automatically if jumping is disabled</li>
+  <li>Added a few more options like "Enable Vanilla Falldamage"</li>
+</ul>
+<b>1.1b</b>
+<ul>
+  <li>Hotfix for:</li>
+    <ul>
+    <li>Jump Settings Loader</li>
+    <li>missing mesh reference</li>
+    <li>BHop Max speed Calculator</li>
+    </ul>
+</ul>
+<b>1.1</b>
+<ul>
+  <li>Added Mottflyer's Velocity based Falldamage</li>
+  <li>Added Mark Dey's Parachute Falling</li>
+  <li>Fixed some Left/Right mixup for the Keybinds</li>
+  <li>Fixed Settings Menu not detecting if it's a Community Server properly</li>
+  <li>Fixed Bunnyhopping causing you to jump less higher</li>
+</ul>
+<b>1.0</b>
+<ul>
+  <li>First Release</li>
+</ul>
