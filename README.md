@@ -40,20 +40,30 @@ Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</h5>
 <br>
 <h3>Version History:</h3>
 <b>1.2</b>
-- Made Climbing compatible for Vanilla Gamemodes (Prevent Falldamage)
-- Made Jumping compatible for Vanilla Gamemodes
-- Jump Settings button hides automatically if jumping is disabled
-- Added a few more options like "Enable Vanilla Falldamage"
+<ul>
+  <li>Made Climbing compatible for Vanilla Gamemodes (Prevent Falldamage)</li>
+  <li>Made Jumping compatible for Vanilla Gamemodes</li>
+  <li>Jump Settings button hides automatically if jumping is disabled</li>
+  <li>Added a few more options like "Enable Vanilla Falldamage"</li>
+</ul>
 <b>1.1b</b>
-Hotfix for:
-- Jump Settings Loader
-- missing mesh reference
-- BHop Max speed Calculator
+<ul>
+  <li>Hotfix for:</li>
+    <ul>
+    <li>Jump Settings Loader</li>
+    <li>missing mesh reference</li>
+    <li>BHop Max speed Calculator</li>
+    </ul>
+</ul>
 <b>1.1</b>
-- Added Mottflyer's Velocity based Falldamage
-- Added Mark Dey's Parachute Falling
-- Fixed some Left/Right mixup for the Keybinds
-- Fixed Settings Menu not detecting if it's a Community Server properly
-- Fixed Bunnyhopping causing you to jump less higher
+<ul>
+  <li>Added Mottflyer's Velocity based Falldamage</li>
+  <li>Added Mark Dey's Parachute Falling</li>
+  <li>Fixed some Left/Right mixup for the Keybinds</li>
+  <li>Fixed Settings Menu not detecting if it's a Community Server properly</li>
+  <li>Fixed Bunnyhopping causing you to jump less higher</li>
+</ul>
 <b>1.0</b>
-First Release
+<ul>
+  <li>First Release</li>
+</ul>
