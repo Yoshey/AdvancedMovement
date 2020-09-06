@@ -1,9 +1,10 @@
 <h1>Advanced Movement Module (AMM) by Yoshey for Pavlov VR</h1>
-<h3>Version 1.2 - 2020</h3>
+<h3>Version 1.3 - 2020</h3>
 Ingame Showcase: https://steamcommunity.com/sharedfiles/filedetails/?id=2221534545
 <br>
 <ul><h3>Features</h3>
-  <li>Physical Climbing</li>
+  <li>Climbing (With VR Controllers)</li>
+  <li>Grabbing (Drawers, Levers, Doors etc)</li>
   <li>Velocity based Falldamage (By Mottflyer)</li>
   <li>Parachuting (By Mark Dey)</li>
   <li>Jumping</li>
@@ -41,6 +42,16 @@ Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</h5>
 <br>
 <br>
 <h3>Version History:</h3>
+<b>1.3</b>
+<ul>
+  <li>Added Grabbing Logic</li>
+  <ul>
+    <li>Added Grabbing Linear (Drawers etc)</li>
+    <li>Added Grabbing Rotator (Levers, Doors etc)</li>
+  </ul>
+  <li>Added a "no Falldamage" Volume</li>
+  <li>Newest Version Number now gets fetched directly from Github</li>
+  </ul>
 <b>1.2</b>
 <ul>
   <li>Made Climbing compatible for Vanilla Gamemodes (Prevent Falldamage)</li>
