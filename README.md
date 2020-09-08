@@ -4,7 +4,7 @@ Ingame Showcase: https://steamcommunity.com/sharedfiles/filedetails/?id=22215345
 <br>
 <ul><h3>Features</h3>
   <li>Climbing (With VR Controllers)</li>
-  <li>Grabbing (Drawers, Levers, Doors etc)</li>
+  <li>Grabbing (Interactive Drawers, Levers, Doors etc)</li>
   <li>Velocity based Falldamage (By Mottflyer)</li>
   <li>Parachuting (By Mark Dey)</li>
   <li>Jumping</li>
