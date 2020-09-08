@@ -166,93 +166,95 @@
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 165
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 166
 "../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 167
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovement/Grabbing/Grabbing_Interface.uasset" 168
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovement/Interacting/Advanced_InteractBox.uasset" 169
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Plugins/CustomMapTools/Content/PhysicalMaterials/PM_ForceNone.uasset" 170
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovementExamples/Materials/BasicColors/BasicColorMaster.uasset" 171
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovementExamples/Materials/BasicColors/BasicGreen.uasset" 172
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovementExamples/Materials/BasicColors/BasicRed.uasset" 173
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovementExamples/Meshes/Dynamic_Box.uasset" 174
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovementExamples/Interacting/Reset_Grabbable.uasset" 175
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Plugins/CustomMapTools/Content/Examples/GL_Base.uasset" 176
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Plugins/CustomMapTools/Content/Examples/DeathMatch/GL_Deathmatch.uasset" 177
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 178
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 179
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 180
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 181
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 182
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 183
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 184
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 185
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 186
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Plugins/CustomMapTools/Content/Examples/Proxies/BP_HandProxyExample.uasset" 187
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovement/Proxies/AdvancedMovement_Interface.uasset" 188
-"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 189
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovement/Proxies/AdvancedMovement_GlobalInfo.uasset" 190
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovement/Miscellaneous/JsonLibrary.uasset" 191
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovement/Proxies/AdvancedMovement_PlayerInfo.uasset" 192
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovement/UI/Images/border.uasset" 193
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovement/UI/Images/Button.uasset" 194
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovement/UI/Images/SettingsIcon.uasset" 195
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovement/UI/SettingsMenu.uasset" 196
-"../../../Engine/Content/EngineMeshes/Humanoid.uasset" 197
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 198
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 199
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovement/Miscellaneous/Sounds/Default.uasset" 200
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovement/Miscellaneous/Sounds/Falldamage/PVR_SFX_FallDamage_Mono_2_1.uasset" 201
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovement/Miscellaneous/Sounds/Falldamage/PVR_SFX_FallDamage_Mono_2_2.uasset" 202
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovement/Miscellaneous/Sounds/Falldamage/PVR_SFX_FallDamage_Mono_2_3.uasset" 203
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovement/Miscellaneous/Sounds/Falldamage/PVR_SFX_FallDamage_Mono_2_4.uasset" 204
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovement/Miscellaneous/Sounds/Falldamage/PVR_SFX_FallDamage_Mono_2_5.uasset" 205
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovement/Miscellaneous/Sounds/Falldamage/PVR_SFX_FallDamage_Mono_2_5-2.uasset" 206
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovement/Miscellaneous/Sounds/Falldamage/PVR_SFX_FallDamage_Mono_2_6.uasset" 207
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovement/Miscellaneous/Sounds/SW_Wind_RushingLoop1.uasset" 208
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovement/Movement/NoFallDamagePhysMat.uasset" 209
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 210
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 211
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 212
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 213
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 214
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovement/Proxies/AdvancedMovement_PlayerProxy.uasset" 215
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovement/Miscellaneous/InteractKind.uasset" 216
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovement/Proxies/AdvancedMovement_HandProxy.uasset" 217
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovement/Climbing/Climbing_Box.uasset" 218
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovement/Interacting/Advanced_InteractMesh.uasset" 219
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovement/Climbing/Climbing_StaticMesh.uasset" 220
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovement/Grabbing/Grabbing_Box.uasset" 221
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovement/Miscellaneous/ComponentMacros.uasset" 222
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovement/Grabbing/Grabbing_Linear.uasset" 223
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovement/Grabbing/Grabbing_Rotator.uasset" 224
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovement/Movement/NoFallDamage.uasset" 225
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 226
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovementExamples/Materials/BasicColors/BasicWhite.uasset" 227
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovementExamples/Climbing/ClimbableBox.uasset" 228
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovementExamples/Climbing/ClimbableBoxWallDetection.uasset" 229
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovementExamples/Meshes/LadderMesh.uasset" 230
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovementExamples/Climbing/ClimbableMesh.uasset" 231
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovementExamples/Climbing/Climbspin.uasset" 232
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovementExamples/Meshes/Drawer.uasset" 233
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovementExamples/Grabbing/Linear_Example.uasset" 234
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovementExamples/Grabbing/Other/Linear_Moving.uasset" 235
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovementExamples/Grabbing/Other/Linear_Nested.uasset" 236
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovementExamples/Grabbing/Other/Linear_Rotating1.uasset" 237
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovementExamples/Grabbing/Other/Linear_Rotating2.uasset" 238
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovementExamples/Meshes/Dynamic_BoxCentered.uasset" 239
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovementExamples/Grabbing/Other/Rotator_Door.uasset" 240
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovementExamples/Materials/BasicColors/BasicBlue.uasset" 241
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovementExamples/Materials/BasicColors/BasicPink.uasset" 242
-"../../../Engine/Content/BasicShapes/Cube.uasset" 243
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovementExamples/Grabbing/Rotator_Example.uasset" 244
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovementExamples/Miscellaneous/SpawnGrenade.uasset" 245
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovementExamples/Parachute/ParachuteOnce.uasset" 246
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovementExamples/AMM_ExampleMap_BuiltData.uasset" 247
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovementExamples/Materials/BasicColors/Transparent_Texture.uasset" 248
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovementExamples/Materials/BasicColors/BasicCyan.uasset" 249
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/Thumbnail.uasset" 250
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/definition.uasset" 251
-"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3/Content/CustomMaps/UGC2221534545/AdvancedMovementExamples/AMM_ExampleMap.umap" 252
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 253
-"../../../Engine/Content/Maps/Entry.umap" 254
-"../../../Engine/Content/Maps/Templates/Template_Default_BuiltData.uasset" 255
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 256
-"../../../Engine/Content/Maps/Templates/Template_Default.umap" 257
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovement/Grabbing/Grabbing_Interface.uasset" 168
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovement/Interacting/Advanced_InteractBox.uasset" 169
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Plugins/CustomMapTools/Content/PhysicalMaterials/PM_ForceNone.uasset" 170
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Materials/BasicColors/BasicColorMaster.uasset" 171
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Materials/BasicColors/BasicGreen.uasset" 172
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Materials/BasicColors/BasicRed.uasset" 173
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Meshes/Dynamic_Box.uasset" 174
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Interacting/Reset_Grabbable.uasset" 175
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Miscellaneous/SpawnGrenade.uasset" 176
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Materials/BasicColors/BasicBlue.uasset" 177
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Interacting/Spawn_Grenades_Button.uasset" 178
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Plugins/CustomMapTools/Content/Examples/GL_Base.uasset" 179
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Plugins/CustomMapTools/Content/Examples/DeathMatch/GL_Deathmatch.uasset" 180
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 181
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 182
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 183
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 184
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 185
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 186
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 187
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 188
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 189
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Plugins/CustomMapTools/Content/Examples/Proxies/BP_HandProxyExample.uasset" 190
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovement/Proxies/AdvancedMovement_Interface.uasset" 191
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 192
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovement/Proxies/AdvancedMovement_GlobalInfo.uasset" 193
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovement/Miscellaneous/JsonLibrary.uasset" 194
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovement/Proxies/AdvancedMovement_PlayerInfo.uasset" 195
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovement/UI/Images/border.uasset" 196
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovement/UI/Images/Button.uasset" 197
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovement/UI/Images/SettingsIcon.uasset" 198
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovement/UI/SettingsMenu.uasset" 199
+"../../../Engine/Content/EngineMeshes/Humanoid.uasset" 200
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 201
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 202
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovement/Miscellaneous/Sounds/Default.uasset" 203
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovement/Miscellaneous/Sounds/Falldamage/PVR_SFX_FallDamage_Mono_2_1.uasset" 204
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovement/Miscellaneous/Sounds/Falldamage/PVR_SFX_FallDamage_Mono_2_2.uasset" 205
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovement/Miscellaneous/Sounds/Falldamage/PVR_SFX_FallDamage_Mono_2_3.uasset" 206
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovement/Miscellaneous/Sounds/Falldamage/PVR_SFX_FallDamage_Mono_2_4.uasset" 207
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovement/Miscellaneous/Sounds/Falldamage/PVR_SFX_FallDamage_Mono_2_5.uasset" 208
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovement/Miscellaneous/Sounds/Falldamage/PVR_SFX_FallDamage_Mono_2_5-2.uasset" 209
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovement/Miscellaneous/Sounds/Falldamage/PVR_SFX_FallDamage_Mono_2_6.uasset" 210
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovement/Miscellaneous/Sounds/SW_Wind_RushingLoop1.uasset" 211
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovement/Movement/NoFallDamagePhysMat.uasset" 212
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 213
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 214
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 215
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 216
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 217
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovement/Proxies/AdvancedMovement_PlayerProxy.uasset" 218
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovement/Miscellaneous/InteractKind.uasset" 219
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovement/Miscellaneous/Interact_Structure_AMM.uasset" 220
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovement/Proxies/AdvancedMovement_HandProxy.uasset" 221
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovement/Climbing/Climbing_Box.uasset" 222
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovement/Interacting/Advanced_InteractMesh.uasset" 223
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovement/Climbing/Climbing_StaticMesh.uasset" 224
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovement/Grabbing/Grabbing_Box.uasset" 225
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovement/Miscellaneous/ComponentMacros.uasset" 226
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovement/Grabbing/Grabbing_Linear.uasset" 227
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovement/Grabbing/Grabbing_Rotator.uasset" 228
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovement/Movement/NoFallDamage.uasset" 229
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 230
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Materials/BasicColors/BasicWhite.uasset" 231
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Climbing/ClimbableBox.uasset" 232
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Climbing/ClimbableBoxWallDetection.uasset" 233
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Meshes/LadderMesh.uasset" 234
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Climbing/ClimbableMesh.uasset" 235
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Climbing/Climbspin.uasset" 236
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Meshes/Drawer.uasset" 237
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Grabbing/Linear_Example.uasset" 238
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Grabbing/Other/Linear_Moving.uasset" 239
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Grabbing/Other/Linear_Nested.uasset" 240
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Grabbing/Other/Linear_Rotating1.uasset" 241
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Grabbing/Other/Linear_Rotating2.uasset" 242
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Meshes/Dynamic_BoxCentered.uasset" 243
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Grabbing/Other/Rotator_Door.uasset" 244
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Materials/BasicColors/BasicPink.uasset" 245
+"../../../Engine/Content/BasicShapes/Cube.uasset" 246
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Grabbing/Rotator_Example.uasset" 247
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Parachute/ParachuteOnce.uasset" 248
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/AMM_ExampleMap_BuiltData.uasset" 249
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Materials/BasicColors/Transparent_Texture.uasset" 250
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Materials/BasicColors/BasicCyan.uasset" 251
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/Thumbnail.uasset" 252
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/definition.uasset" 253
+"A:/!Dev/UE4/Pavlov/Advanced Movement/AdvancedMovement_1.3b/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/AMM_ExampleMap.umap" 254
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 255
+"../../../Engine/Content/Maps/Entry.umap" 256
+"../../../Engine/Content/Maps/Templates/Template_Default_BuiltData.uasset" 257
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 258
+"../../../Engine/Content/Maps/Templates/Template_Default.umap" 259
