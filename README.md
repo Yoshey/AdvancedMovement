@@ -1,5 +1,5 @@
 <h1>Advanced Movement Module (AMM) by Yoshey for Pavlov VR</h1>
-<h3>Version 1.3 - 2020</h3>
+<h3>Version 1.4 - 2020</h3>
 Ingame Showcase: https://steamcommunity.com/sharedfiles/filedetails/?id=2221534545
 <br>
 <ul><h3>Features</h3>
@@ -42,6 +42,18 @@ Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</h5>
 <br>
 <br>
 <h3>Version History:</h3>
+<b>1.4</b>
+<ul>
+  <li>Reworked the HandProxy from Scratch</li>
+  <ul>
+    <li>Fixed Climb events triggering multiple times</li>
+    <li>New Event Dispatchers (one hand, two hands)</li>
+  </ul>
+  <li>Fixed some AMM Player Proxy Bugs (Sometimes not receiving all Variables) and improved Setup Time</li>
+  <li>Added Oculus Keybind Buttons (Example: FaceButton2 -> B)</li>
+  <li>Fixed Settings Menu Buttons overlapping with the Border</li>
+  <li>Added Text-To-Speech 0-10 Countdown for Debugging</li>
+  </ul>
 <b>1.3</b>
 <ul>
   <li>Added Grabbing Logic</li>
