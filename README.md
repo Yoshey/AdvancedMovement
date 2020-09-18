@@ -45,6 +45,7 @@ Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</h5>
 <b>1.4b</b><br>
 Be sure to rename your folders as seen below and fix up redirectories before updating, or your custom blueprints will break when updating
 <br>
+<br>
 <ul>
 	<li>Renamed some File Paths to shorten overall path length</li>
 	<ul>
