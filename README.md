@@ -52,7 +52,6 @@ Be sure to rename your folders as seen below and fix up redirectories before upd
 		<li>Content\AdvancedMovement -> Content\AMM</li>
 		<li>Content\AdvancedMovement_Examples -> Content\AMM_Examples</li>
 	</ul>
-
 	<li>Changed Climbing_Box visuals (its now blue and thicker lines)</li>
 	<li>Changed the Falldamage Types to an Enum Structure (You can now Select between "Disabled" "Velocity Falldamage" and "Pavlov Falldamage" in the gameinfo)</li>
 	<li>Added Example Child-Proxies with Variable Previews</li>
