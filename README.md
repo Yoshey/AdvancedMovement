@@ -1,5 +1,5 @@
 <h1>Advanced Movement Module (AMM) by Yoshey for Pavlov VR</h1>
-<h3>Version 1.4 - 2020</h3>
+<h3>Version 1.4b - 2020</h3>
 Ingame Showcase: https://steamcommunity.com/sharedfiles/filedetails/?id=2221534545
 <br>
 <ul><h3>Features</h3>
@@ -42,6 +42,21 @@ Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</h5>
 <br>
 <br>
 <h3>Version History:</h3>
+<b>1.4b</b>
+Be sure to rename your folders as seen below and fix up redirectories before updating, or your custom blueprints will break when updating
+<br>
+<ul>
+	<li>Renamed some File Paths to shorten overall path length</li>
+	<ul>
+		<li>Content\AdvancedMovement -> Content\AMM</li>
+		<li>Content\AdvancedMovement_Examples -> Content\AMM_Examples</li>
+	</ul>
+
+	<li>Changed Climbing_Box visuals (its now blue and thicker lines)</li>
+	<li>Changed the Falldamage Types to an Enum Structure (You can now Select between "Disabled" "Velocity Falldamage" and "Pavlov Falldamage" in the gameinfo)</li>
+	<li>Added Example Child-Proxies with Variable Previews</li>
+	<li>Redid the example climbing blueprints since they kept breaking when being moved</li>
+</ul>
 <b>1.4</b>
 <ul>
   <li>Reworked the HandProxy from Scratch</li>
