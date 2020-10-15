@@ -1,6 +1,7 @@
 <h1>Advanced Movement Module (AMM) by Yoshey for Pavlov VR</h1>
 <h3>Version 1.4b - 2020</h3>
 Ingame Showcase: https://steamcommunity.com/sharedfiles/filedetails/?id=2221534545
+<h2>Note: This project is currently not being worked on actively</h2>
 <br>
 <ul><h3>Features</h3>
   <li>Climbing (With VR Controllers)</li>
