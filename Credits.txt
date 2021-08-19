@@ -1,5 +1,5 @@
 Advanced Movement Module by Yoshey for Pavlov VR
-Version 1.4b - 2020
+Version 2.0 - 2021
 
 -
 
@@ -11,4 +11,12 @@ Parachuting (Made by Mark Dey)
 Velocity based Falldamage (Made by Mottflyer)
 Vanilla Falldamage Prevention (Thanks to Kennithh)
 
-Special thanks to all my Patreons on https://www.patreon.com/Yoshey for supporting me to create these things!
+Assets:
+Beach Ball 3D Model: By Tommyleenev https://skfb.ly/6ENE8
+
+Thank you to everyone that supported me such as via Patreon!
+https://www.patreon.com/Yoshey
+
+
+Special thank you to:
+Leaf - Testing
