@@ -1,10 +1,17 @@
 <h1>Advanced Movement Module (AMM) by Yoshey for Pavlov VR</h1>
-<h3>Version 1.4b - 2020</h3>
+<h3>Version 2.0 - 2021</h3>
 Ingame Showcase: https://steamcommunity.com/sharedfiles/filedetails/?id=2221534545
 <br>
 <ul><h3>Features</h3>
   <li>Climbing (With VR Controllers)</li>
   <li>Grabbing (Interactive Drawers, Levers, Doors etc)</li>
+  <li>Swimming (Only Custom Gamemodes)</li>
+  <li>Replicated Physics Interactibles (Pickup and Hand-Pushing)</li>
+  <ul>
+    <li>Pick Up</li>
+    <li>Push with Hands</li>
+    <li>Replicated</li>
+  </ul>
   <li>Velocity based Falldamage (By Mottflyer)</li>
   <li>Parachuting (By Mark Dey)</li>
   <li>Jumping</li>
@@ -13,10 +20,9 @@ Ingame Showcase: https://steamcommunity.com/sharedfiles/filedetails/?id=22215345
     <li>Changeable Jump Button</li>
   </ul>
 </ul>
-<h2>Note: This project is not being worked on actively anymore</h2>
+<h2>Note: Due to my personal life such as University, I cannot always work on this Project</h2>
 <br>
-All logic, art assets and models are ultimately owned by Yoshey.
-Exception: SW_Wind_RushingLoop1
+All logic, art assets and models are ultimately owned by Yoshey, if not stated otherwise in Credits.txt
 <br>
 <br>
 <b>BE SURE TO READ <i>"License - ReadMe.txt"</i></b>
@@ -30,10 +36,10 @@ GitHub account to get access to the plugin.
 <br>
 <br>
 <h3>Extra</h3>
-The Advanced Movement Module works best for custom gamemodes. Some parts will break or fail with default gamemodes such as jumping and taking falldamage during climbing.
+The Advanced Movement Module works best for custom gamemodes. Some parts will break or fail with default gamemodes.
 <br>
 <br>
-You can modify some features by changing the "Configuration" variables such as enabling/disabling jumping and setting some BunnyHopping parameters. For existing custom gamemodes, they will appear at the right side within the PlayerProxy of your custom gamemode.
+You can modify some features by changing the "Configuration" variables such as enabling/disabling jumping and setting some BunnyHopping parameters.
 <br>
 <br>
 <h5>The Advanced Movement Module is Licensed under the
@@ -43,6 +49,23 @@ Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</h5>
 <br>
 <br>
 <h3>Version History:</h3>
+<b>2.0</b><br>
+<ul>
+	<li>Added Swimming (currently only works for Custom Gamemodes)</li>
+	<li>Added Climbing and Swimming Animations</li>
+	<li>Added Pickup-able Physicsobjects with Replication</li>
+	<ul>
+		<li>Added BeachBall</li>
+	</ul>
+	<li>Added Haptic Feedback (Controller Rumbling)</li>
+	<li>Cleaned up Code</li>
+	<ul>
+		<li>Removed the Events "Child Tick" and "Child Beginplay" (this should be done in reverse, "Parent Tick" and "Parent Beginplay"</li>
+		<li>Renamed Property Categories such as "Advanced Movement (Modify me!)" to "AMM Properties" make sure to doublecheck your custom Properties!</li>
+	</ul>
+	<li>Added the Plugin "AMMTools" for easier in-editor developement, including a VR and FPS pawn</li>
+	<li>Removed the included Pavlov's CustomMapTools. They need to be downloaded and imported manually (to ensure people receive the latest versions)</li>
+</ul>
 <b>1.4b</b><br>
 Be sure to rename your folders as seen below and fix up redirectories before updating, or your custom blueprints will break when updating
 <br>
