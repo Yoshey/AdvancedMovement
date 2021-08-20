@@ -53,6 +53,7 @@ Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</h5>
 <ul>
 	<li>Made Swimming possible for Default Gamemodes</li>
 	<li>Velocity Based Falldamage now works for Default Gamemodes</li>
+	<li>Updated the installation documentation for a more reliable installation method</li>
 </ul>
 <b>2.0</b><br>
 <ul>
