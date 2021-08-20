@@ -1,5 +1,5 @@
 <h1>Advanced Movement Module (AMM) by Yoshey for Pavlov VR</h1>
-<h3>Version 2.0 - 2021</h3>
+<h3>Version 2.0a - 2021</h3>
 Ingame Showcase: https://steamcommunity.com/sharedfiles/filedetails/?id=2221534545
 <br>
 <ul><h3>Features</h3>
@@ -49,6 +49,11 @@ Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</h5>
 <br>
 <br>
 <h3>Version History:</h3>
+<b>2.0a</b><br>
+<ul>
+	<li>Made Swimming possible for Default Gamemodes</li>
+	<li>Velocity Based Falldamage now works for Default Gamemodes</li>
+</ul>
 <b>2.0</b><br>
 <ul>
 	<li>Added Swimming (currently only works for Custom Gamemodes)</li>
