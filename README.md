@@ -65,6 +65,7 @@ Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</h5>
 	</ul>
 	<li>Added the Plugin "AMMTools" for easier in-editor developement, including a VR and FPS pawn</li>
 	<li>Removed the included Pavlov's CustomMapTools. They need to be downloaded and imported manually (to ensure people receive the latest versions)</li>
+	<li>Updated "Installation&Info" to an .pdf with images</li>
 </ul>
 <b>1.4b</b><br>
 Be sure to rename your folders as seen below and fix up redirectories before updating, or your custom blueprints will break when updating
