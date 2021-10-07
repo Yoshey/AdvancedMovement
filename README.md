@@ -49,6 +49,14 @@ Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</h5>
 <br>
 <br>
 <h3>Version History:</h3>
+<b>2.1</b><br>
+<ul>
+	<li>Fixed going through walls while climbing</li>
+	<li>Improved swimming out of water onto sloped surfaces</li>
+	<li>Added variable for jump height</li>
+	<li>disabled shooting while jumping</li>
+	<li>Fixed in-editor desktop debug pawn</li>
+</ul>
 <b>2.0a</b><br>
 <ul>
 	<li>Made Swimming possible for Default Gamemodes</li>
