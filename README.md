@@ -1,5 +1,5 @@
 <h1>Advanced Movement Module (AMM) by Yoshey for Pavlov VR</h1>
-<h3>Version 2.0a - 2021</h3>
+<h3>Version 2.1 - 2021</h3>
 Ingame Showcase: https://steamcommunity.com/sharedfiles/filedetails/?id=2221534545
 <br>
 <ul><h3>Features</h3>
@@ -20,7 +20,7 @@ Ingame Showcase: https://steamcommunity.com/sharedfiles/filedetails/?id=22215345
     <li>Changeable Jump Button</li>
   </ul>
 </ul>
-<h2>Note: Due to my personal life such as University, I cannot always work on this Project</h2>
+<h2>Note: Due to my personal life such as University, I cannot always work on this project</h2>
 <br>
 All logic, art assets and models are ultimately owned by Yoshey, if not stated otherwise in Credits.txt
 <br>
