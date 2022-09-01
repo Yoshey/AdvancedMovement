@@ -28,7 +28,7 @@ All logic, art assets and models are ultimately owned by Yoshey, if not stated o
 <b>BE SURE TO READ <i>"License - ReadMe.txt"</i></b>
 <br>
 <br>
-<h3>Special thanks to all my Donators at https://www.patreon.com/Yoshey for supporting me to create these modules!</h3>
+<h3>Special thanks to all the Donators that supported me while creating this!</h3>
 <br>
 If you do not have the Pavlov Workshop Plugin, you must link your UE4 account with your
 GitHub account to get access to the plugin.
